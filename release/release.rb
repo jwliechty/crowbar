@@ -1,5 +1,3 @@
-#PROJECTS = %w(ascent-upload-client MzConvertService ascent-cpp-compute ascent-quartermaster ascent-web compute-runner qa-rules-core)
-PROJECTS = %w(ascent-upload-client MzConvertService ascent-cpp-compute ascent-quartermaster ascent-web compute-runner qa-rules-core)
 
 class ProjectRelease
   RELEASE_PREFIX = 'release-'
