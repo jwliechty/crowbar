@@ -1,0 +1,10 @@
+ascent-web/
+compute-runner/
+ascent-upload-client/
+MzConvertService/
+ascent-cpp-compute/
+ascent-quartermaster/
+ascent-web compute-runner/
+qa-rules-core/
+*_feature_report.txt
+*_output.txt
